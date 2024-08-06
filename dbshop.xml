@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MYSHOP>
+    <SHOP>
+        <UID>0001</UID>
+        <USER>Bob</USER>
+        <PASS>Bob99</PASS>
+        <UNAME>Bob Dylan</UNAME>
+        <TEL>083xxxxxx</TEL>
+    </SHOP>
+    <SHOP>
+        <UID>0002</UID>
+        <USER>Bonnie</USER>
+        <PASS>Bonnie88</PASS>
+        <UNAME>Bonnie Tyler</UNAME>
+        <TEL>087xxxxxx</TEL>
+    </SHOP>
+</MYSHOP>
